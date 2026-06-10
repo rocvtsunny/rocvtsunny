@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey there!
 My name is Sunny Lim, I am 19 years old and third-year Software Developer Student.
 
 
