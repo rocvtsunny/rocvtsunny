@@ -1,4 +1,4 @@
-# Hey there!
+# 🌱 Hey there!
 I'm Sunny Lim, a 19-year-old Software Developer student currently in my third year. I have a passion for building robust full-stack applications, with a specific focus on bridging the gap between back-end data and user-centric front-end design.
 
 My development philosophy centers on creating clean, scalable architecture. I specialize in developing efficient RESTful APIs using .NET, ensuring a seamless flow of data to my React-based frontends. I love the challenge of turning complex logic into interactive, intuitive experiences, from initial database design to the final deployment.
